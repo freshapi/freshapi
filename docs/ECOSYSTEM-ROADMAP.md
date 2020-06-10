@@ -13,7 +13,7 @@ and easy to use concepts. So we're trying to start from a bunch of independent p
 * Go package with easy access to FileDescriptors
 * Server Reflection implementation
 
-## gRPC discovery gateway
+## gRPC discovery gateway (grpc-router)
 
 * Dynamic service discovery based on Kubernetes service or other configuration providers
 * Single entry point for gRPC clients. gRPC service fully-qualified name as a routing key
